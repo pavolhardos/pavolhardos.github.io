@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+UNDER CONSTRUCTION
+
 Pavol Hardoš je odborný asistent na Ústave európskych štúdií a medzinárodných vzťahov, Fakuta sociálnych a ekonomických vied UK v Bratislave.
 
 Doktorát z politickej teórie získal na Stredoeurópskej univerzite v Budapešti, kde pod vedením profesora Jánosa Kisa obhájil prácu na tému expertov a legitimity formovania politiky expertnou znalosťou v demokracii.
