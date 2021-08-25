@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-UNDER CONSTRUCTION
+PAGE UNDER CONSTRUCTION
 
 Pavol Hardoš je odborný asistent na Ústave európskych štúdií a medzinárodných vzťahov, Fakuta sociálnych a ekonomických vied UK v Bratislave.
 
